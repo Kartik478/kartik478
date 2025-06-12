@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at Brock University with a passion for **full-stack development**, **data engineering**, and **embedded systems**. Currently working as an Undergraduate Research Assistant on 5G vehicular networks, I love building scalable solutions that make a real impact.
+I’m a **Computer Science (Honours) & Mathematics** graduate from Brock University (April 2025) with co-op experience in government, energy, and academic research. Passionate about **full-stack development**, **data engineering**, and **embedded systems**, I currently contribute to 5G vehicular network research and build scalable solutions that bridge theory and real-world impact. :contentReference[oaicite:0]{index=0}
 
-- 🎓 **Graduating April 2025** - Hon. Bachelor of Computer Science (Co-op) + Mathematics Minor
-- 🔬 **Currently researching** embedded software for 5G vehicular networks
-- 💼 **Experience across** government agencies, energy sector, and academic research
-- 🌱 **Always learning** new technologies and frameworks
-- 📫 **Let's connect** at kp20zm@brocku.ca
+- 🎓 **Hons. B.C.Sc. (Co-op)** + Mathematics Minor, Brock University — GPA 3.3/4.0 (Apr 2025) :contentReference[oaicite:1]{index=1}  
+- 🔬 **Undergraduate Research Assistant** on embedded software for 5G vehicular networks :contentReference[oaicite:2]{index=2}  
+- 💼 Co-op experience at Ontario Ministry of Transportation & Ontario Power Generation :contentReference[oaicite:3]{index=3}  
+- 🌱 Lifelong learner: Data architectures, cloud platforms, AI/ML toolchains  
+- ⚡ Open to collaborations, mentorship, and impactful projects  
 
 ---
 
@@ -63,12 +63,6 @@ I'm a **Computer Science student** at Brock University with a passion for **full
 
 ## 💼 Professional Experience
 
-### 🔬 **Undergraduate Research Assistant** | *Brock University*
-*Sept 2024 - Present*
-- Developing **embedded software** for 5G vehicular networks in **C++**
-- Optimizing algorithms to **reduce network failure rates by 20%**
-- Collaborating with research teams on cutting-edge network solutions
-
 ### 🏛️ **Junior System Administrator** | *Ontario Ministry of Transportation*
 *May 2024 - Aug 2024*
 - Deployed **Azure-based monitoring** solutions with **99.9% uptime**
@@ -90,6 +84,12 @@ I'm a **Computer Science student** at Brock University with a passion for **full
 ---
 
 ## 🚀 Featured Projects
+
+### 🔬 **Undergraduate Research Project: AI/ML for 5G Traffic Steering** | *Sept 2024 - May 2025*
+- Conducted comparative analysis of reinforcement learning approaches for 5G traffic steering using Simu5G simulation framework
+- Implemented Connectivity-oriented SARSA (CO-SRL) algorithms in C++ that reduced handover failures by 30\% while improving throughput by 15%
+- Developed a novel Dynamic RAT Selection method achieving 36\% higher throughput and 43\% lower packet loss than conventional approaches
+- Performed systematic parameter sweep experiments to optimize RL configuration for heterogeneous 5G/4G vehicular networks
 
 ### 🛠️ **Cross-Platform Development Tools** | *Feb 2024 - Present*
 **Tech Stack:** C++, JavaScript, Git, Linux/Windows/macOS
