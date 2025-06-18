@@ -8,9 +8,9 @@
 
 I’m a **Computer Science (Honours) & Mathematics** graduate from Brock University (April 2025) with co-op experience in government, energy, and academic research. Passionate about **full-stack development**, **data engineering**, and **embedded systems**, I currently contribute to 5G vehicular network research and build scalable solutions that bridge theory and real-world impact. :contentReference[oaicite:0]{index=0}
 
-- 🎓 **Hons. B.C.Sc. (Co-op)** + Mathematics Minor, Brock University — GPA 3.3/4.0 (Apr 2025) :contentReference[oaicite:1]{index=1}  
-- 🔬 **Undergraduate Research Assistant** on embedded software for 5G vehicular networks :contentReference[oaicite:2]{index=2}  
-- 💼 Co-op experience at Ontario Ministry of Transportation & Ontario Power Generation :contentReference[oaicite:3]{index=3}  
+- 🎓 **Hons. B.C.Sc. (Co-op)** + Mathematics Minor, Brock University — GPA 3.3/4.0 (Apr 2025) 
+- 🔬 **Undergraduate Research Assistant** on embedded software for 5G vehicular networks
+- 💼 Co-op experience at Ontario Ministry of Transportation & Ontario Power Generation  
 - 🌱 Lifelong learner: Data architectures, cloud platforms, AI/ML toolchains  
 - ⚡ Open to collaborations, mentorship, and impactful projects  
 
